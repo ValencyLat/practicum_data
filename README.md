@@ -5,4 +5,4 @@
 |Project link                  |Description                 |Stack                        |
 |:----------------------------:|:--------------------------:|:---------------------------:|
 |[Выпускной проект e-commerce](https://github.com/ValencyLat/practicum_data/blob/main/Final/e-commerce_git.ipynb)|На основе полученных данных выполнен буткем-проект в выбранной доменной области - e-commerce. Была проведен анализ товарного ассортимента|python, pandas, numpy, scipy, matplotlib, plotly, seaborn|
-|[АБ-тест](https://github.com/ValencyLat/practicum_data/blob/main/Final/ab_test.ipynb)|В данном проекте проведена оценка корректности проведения АБ теста и анализ его  результата. Построена |python, pandas, numpy, scipy, matplotlib, math, plotly, AB test|
+|[АБ-тест](https://github.com/ValencyLat/practicum_data/blob/main/Final/ab_test.ipynb)|В данном проекте проведена оценка корректности проведения АБ теста и анализ его  результата.  |python, pandas, numpy, scipy, matplotlib, math, plotly, AB test|
